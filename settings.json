@@ -6,13 +6,13 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "yyihht.aternos.me",
+    "port": 26249,
     "version": "1.19.3"
   },
 
   "position": {
-    "enabled": false,
+    "enabled":true,
     "x": 0,
     "y": 0,
     "z": 0
